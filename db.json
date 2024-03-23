@@ -1,0 +1,604 @@
+{
+  "movies":[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 2,
+    "title": "Intouchables",
+    "year": 2011,
+    "director": "Olivier Nakache, Éric Toledano"
+  },
+  {
+    "id": 3,
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 4,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 5,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": "Sidney Lumet"
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 7,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "director": "Miloš Forman"
+  },
+  {
+    "id": 8,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 10,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg"
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 12,
+    "title": "La vita è bella",
+    "year": 1997,
+    "director": "Roberto Benigni"
+  },
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 14,
+    "title": "Se7en",
+    "year": 1995,
+    "director": "David Fincher"
+  },
+  {
+    "id": 15,
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher"
+  },
+  {
+    "id": 16,
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese"
+  },
+  {
+    "id": 17,
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polański"
+  },
+  {
+    "id": 18,
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips"
+  },
+  {
+    "id": 19,
+    "title": "Django Unchained",
+    "year": 2012,
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 20,
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "director": "Ron Howard"
+  },
+  {
+    "id": 21,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 22,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme"
+  },
+  {
+    "id": 23,
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Rob Minkoff, Roger Allers"
+  },
+  {
+    "id": 24,
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma"
+  },
+  {
+    "id": 25,
+    "title": "Gran Torino",
+    "year": 2008,
+    "director": "Clint Eastwood"
+  },
+    {
+      "id": 26,
+      "title": "Coco",
+      "year": 2017,
+      "director": "Lee Unkrich, Adrian Molina"
+    },
+    {
+      "id": 27,
+      "title": "Shutter Island",
+      "year": 2010,
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 28,
+      "title": "Léon",
+      "year": 1994,
+      "director": "Luc Besson"
+    },
+    {
+      "id": 29,
+      "title": "American History X",
+      "year": 1998,
+      "director": "Tony Kaye"
+    },
+    {
+      "id": 30,
+      "title": "Green Book",
+      "year": 2018,
+      "director": "Peter Farrelly"
+    },
+    {
+      "id": 31,
+      "title": "Gladiator",
+      "year": 2000,
+      "director": "Ridley Scott"
+    },
+    {
+      "id": 32,
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 33,
+      "title": "Braveheart",
+      "year": 1995,
+      "director": "Mel Gibson"
+    },
+    {
+      "id": 34,
+      "title": "Whiplash",
+      "year": 2014,
+      "director": "Damien Chazelle"
+    },
+    {
+      "id": 35,
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "director": "Gus Van Sant"
+    },
+    {
+      "id": 36,
+      "title": "The Boy in the Striped Pyjamas",
+      "year": 2008,
+      "director": "Mark Herman"
+    },
+    {
+      "id": 37,
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "director": "Mel Gibson"
+    },
+    {
+      "id": 38,
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 39,
+      "title": "Scent of a Woman",
+      "year": 1992,
+      "director": "Martin Brest"
+    },
+    {
+      "id": 40,
+      "title": "The Prestige",
+      "year": 2006,
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 41,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "director": "Irvin Kershner"
+    },
+    {
+      "id": 42,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "director": "Anthony Russo, Joe Russo"
+    },
+    {
+      "id": 43,
+      "title": "Il buono, il brutto, il cattivo",
+      "year": 1966,
+      "director": "Sergio Leone"
+    },
+    {
+      "id": 44,
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "director": "Richard Marquand"
+    },
+    {
+      "id": 45,
+      "title": "Once Upon a Time in America",
+      "year": 1984,
+      "director": "Sergio Leone"
+    },
+    {
+      "id": 46,
+      "title": "The Help",
+      "year": 2011,
+      "director": "Tate Taylor"
+    },
+    {
+      "id": 47,
+      "title": "Casino",
+      "year": 1995,
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 48,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 49,
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "director": "Denis Villeneuve"
+    },
+    {
+      "id": 50,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "director": "Peter Jackson"
+    },
+    {
+      "id": 51,
+      "title": "Heat",
+      "year": 1995,
+      "director": "Michael Mann"
+    },
+    {
+      "id": 52,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "director": "Gabriele Muccino"
+    },
+    {
+      "id": 53,
+      "title": "Gi-saeng-chung",
+      "year": 2019,
+      "director": "Joon-ho Bong"
+    },
+    {
+      "id": 54,
+      "title": "Amadeus",
+      "year": 1984,
+      "director": "Miloš Forman"
+    },
+    {
+      "id": 55,
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "director": "Quentin Tarantino, Eli Roth"
+    },
+    {
+      "id": 56,
+      "title": "Platoon",
+      "year": 1986,
+      "director": "Oliver Stone"
+    },
+    {
+      "id": 57,
+      "title": "The Notebook",
+      "year": 1986,
+      "director": "Nick Cassavetes"
+    },
+    {
+      "id": 58,
+      "title": "Sen to Chihiro no Kamikakushi",
+      "year": 2001,
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "id": 59,
+      "title": "The Departed",
+      "year": 2006,
+      "director": "Martin Scorsese"
+    },
+    {
+      "id": 60,
+      "title": "Bogowie",
+      "year": 2014,
+      "director": "Łukasz Palkowski"
+    },
+    {
+      "id": 61,
+      "title": "Awakenings",
+      "year": 1990,
+      "director": "Penny Marshall"
+    },
+    {
+      "id": 62,
+      "title": "Psycho",
+      "year": 1960,
+      "director": "Alfred Hitchcock"
+    },
+    {
+      "id": 63,
+      "title": "Hachi: A Dog's Tale",
+      "year": 2009,
+      "director": "Lasse Hallström"
+    },
+    {
+      "id": 64,
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "director": "Michael Cimino"
+    },
+    {
+      "id": 65,
+      "title": "Seven Pounds",
+      "year": 2008,
+      "director": "Gabriele Muccino"
+    },
+    {
+      "id": 66,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "director": "Anthony Russo, Joe Russo"
+    },
+    {
+      "id": 67,
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 68,
+      "title": "Cidade de Deus",
+      "year": 2002,
+      "director": "Fernando Meirelles"
+    },
+    {
+      "id": 69,
+      "title": "Snatch",
+      "year": 2000,
+      "director": "Guy Ritchie"
+    },
+    {
+      "id": 70,
+      "title": "Rain Man",
+      "year": 1988,
+      "director": "Barry Levinson"
+    },
+    {
+      "id": 71,
+      "title": "The Devil's Advocate",
+      "year": 1997,
+      "director": "Taylor Hackford"
+    },
+    {
+      "id": 72,
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "director": "Terry Gilliam, Terry Jones"
+    },
+    {
+      "id": 73,
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "director": "Quentin Tarantino"
+    },
+    {
+      "id": 74,
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 75,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "director": "Martin McDonagh"
+    },
+    {
+      "id": 76,
+      "title": "The Godfather: Part III",
+      "year": 1990,
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "id": 77,
+      "title": "Star Wars",
+      "year": 1977,
+      "director": "George Lucas"
+    },
+    {
+      "id": 78,
+      "title": "Nuovo cinema Paradiso",
+      "year": 1988,
+      "director": "Giuseppe Tornatore"
+    },
+    {
+      "id": 79,
+      "title": "Zootopia",
+      "year": 2016,
+      "director": "Byron Howard, Rich Moore"
+    },
+    {
+      "id": 80,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "director": "Bob Persichetti, Peter Ramsey"
+    },
+    {
+      "id": 81,
+      "title": "Contratiempo",
+      "year": 2016,
+      "director": "Oriol Paulo"
+    },
+    {
+      "id": 82,
+      "title": "Oppenheimer",
+      "year": 2023,
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 83,
+      "title": "Najlepszy",
+      "year": 2017,
+      "director": "Łukasz Palkowski"
+    },
+    {
+      "id": 84,
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 85,
+      "title": "The Sting",
+      "year": 1973,
+      "director": "George Roy Hill"
+    },
+    {
+      "id": 86,
+      "title": "Klaus",
+      "year": 2019,
+      "director": "Sergio Pablos"
+    },
+    {
+      "id": 87,
+      "title": "Les choristes",
+      "year": 2004,
+      "director": "Christophe Barratier"
+    },
+    {
+      "id": 88,
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "director": "Steven Spielberg"
+    },
+    {
+      "id": 89,
+      "title": "Prisoners",
+      "year": 2013,
+      "director": "Denis Villeneuve"
+    },
+    {
+      "id": 90,
+      "title": "Enemy at the Gates",
+      "year": 2001,
+      "director": "Jean-Jacques Annaud"
+    },
+    {
+      "id": 91,
+      "title": "Shichinin no samurai",
+      "year": 1954,
+      "director": "Akira Kurosawa"
+    },
+    {
+      "id": 92,
+      "title": "The Father",
+      "year": 2020,
+      "director": "Florian Zeller"
+    },
+    {
+      "id": 93,
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "director": "Bryan Singer"
+    },
+    {
+      "id": 94,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "director": "Dean DeBlois, Chris Sanders"
+    },
+    {
+      "id": 95,
+      "title": "La migliore offerta",
+      "year": 2013,
+      "director": "Giuseppe Tornatore"
+    },
+    {
+      "id": 96,
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "director": "Darren Aronofsky"
+    },
+    {
+      "id": 97,
+      "title": "Mononoke-hime",
+      "year": 1997,
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "id": 98,
+      "title": "Life of Brian",
+      "year": 1979,
+      "director": "Terry Jones"
+    },
+    {
+      "id": 99,
+      "title": "Hauru no ugoku shiro",
+      "year": 2004,
+      "director": "Hayao Miyazaki"
+    },
+    {
+      "id": 100,
+      "title": "Alien",
+      "year": 1979,
+      "director": "Alien"
+    }
+  ]
+}

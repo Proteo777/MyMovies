@@ -1,0 +1,71 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 1000px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 4.4em;
+  line-height: 1.1;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  text-align: center;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+body {
+  background-image: url('movie-background-collage.jpg'); /* Ścieżka do obrazu tła */
+  background-size: cover; /* Dopasuj rozmiar tła */
+  background-position: center; /* Ustaw pozycję tła na środek */
+  color: white;
+}
+.top-movies-table {
+  width: 100%;
+  border-collapse: collapse;
+
+}
+
+
+.top-movies-table th, .top-movies-table td {
+  width: 25%; /* Szerokość komórki, aby utworzyć siatkę 4x20 */
+  height: 40px; /* Wysokość komórki */
+  border: 2px solid ghostwhite; /* Pogrubione linie */
+  text-align: center; /* Wyśrodkowanie tekstu */
+
+}
+
+.top-movies-table th {
+  font-weight: bold; /* Pogrubienie nagłówków */
+}
