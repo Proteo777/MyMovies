@@ -4,15 +4,73 @@
   font-weight: 400;
 }
 
-
 body {
   margin: 0;
   display: flex;
   justify-content: center;
-  place-items: center;
+  align-items: center;
   min-width: 1000px;
   min-height: 100vh;
+  background-image: url('movie-background-collage.jpg'); /* Ścieżka do obrazu tła */
+  background-size: cover; /* Dopasuj rozmiar tła */
+  background-position: center; /* Ustaw pozycję tła na środek */
+  color: white;
 }
+
+nav {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  color: #fff;
+}
+
+.navbar-button {
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.navbar-button:hover {
+  background-color: #0056b3;
+}
+
+.navbar-button + .navbar-button {
+  margin-left: 20px;
+}
+
 
 h1 {
   font-size: 4.4em;
@@ -37,6 +95,7 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #646cff;
 }
@@ -45,27 +104,35 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-body {
-  background-image: url('movie-background-collage.jpg'); /* Ścieżka do obrazu tła */
-  background-size: cover; /* Dopasuj rozmiar tła */
-  background-position: center; /* Ustaw pozycję tła na środek */
-  color: white;
-}
 .top-movies-table {
   width: 100%;
   border-collapse: collapse;
-
 }
 
-
-.top-movies-table th, .top-movies-table td {
+.top-movies-table th,
+.top-movies-table td {
   width: 25%; /* Szerokość komórki, aby utworzyć siatkę 4x20 */
   height: 40px; /* Wysokość komórki */
   border: 2px solid ghostwhite; /* Pogrubione linie */
   text-align: center; /* Wyśrodkowanie tekstu */
-
 }
 
 .top-movies-table th {
   font-weight: bold; /* Pogrubienie nagłówków */
+}
+
+
+.inputContainer {
+  margin-bottom: 10px;
+}
+
+.inputContainer input {
+  width: 300px; /* Dostosuj szerokość inputów według potrzeb */
+  padding: 10px;
+  font-size: 14px; /* Dostosuj rozmiar tekstu według potrzeb */
+}
+
+.inputContainer input::placeholder {
+  font-size: 12px; /* Dostosuj rozmiar tekstu placeholdera według potrzeb */
+  color: #999; /* Kolor placeholdera */
 }
